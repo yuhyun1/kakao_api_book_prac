@@ -1,3 +1,4 @@
+config.private.properties
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
