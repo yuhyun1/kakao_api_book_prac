@@ -1,5 +1,3 @@
-package service;
-
 import application.BookSearchApp;
 
 import java.io.IOException;
